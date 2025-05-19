@@ -1,2 +1,1 @@
-# Lost32x
-Lost32x
+echo "# Lost32x" >> README.md
